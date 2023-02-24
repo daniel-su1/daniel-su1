@@ -9,10 +9,10 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/daniel-
 **Developer Tools:** Git, GitHub, Bash, npm, Visual Studio Code, Visual Studio, Eclipse, Netlify, Railway, Figma <br>
 
 ## Learn More
-- I’m looking for a summer internship
-- I’m currently learning about front-end development
-- Learn more about me at **[danielsu.ca](https://danielsu.ca/)**
-- Pronouns: `He/Him`
+- 🤔 I’m looking for a summer internship
+- 🔭 I’m currently learning about front-end development
+- ⚡ Learn more about me at **[danielsu.ca](https://danielsu.ca/)**
+- 😄 Pronouns: `He/Him`
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-su1/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielsu.ca)
