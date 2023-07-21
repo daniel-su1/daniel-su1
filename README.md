@@ -19,5 +19,5 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/daniel-
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@danielsu.ca)
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=daniel-su1&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-su1&exclude_repo=zombie-rampage,DMOJ-Java,crystalnite&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=daniel-su1&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-su1&exclude_repo=zombie-rampage,DMOJ-Java,crystalnite&theme=github_dark&show_icons=true&hide_border=true&layout=compact" height="200px">
 --- | --- 
