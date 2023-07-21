@@ -17,3 +17,6 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/daniel-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-su1/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielsu.ca)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@danielsu.ca)
+
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-su1)](https://github.com/daniel-su1/github-readme-stats)
