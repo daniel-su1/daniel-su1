@@ -9,7 +9,7 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/daniel-
 **Developer Tools:** Git, GitHub, Bash, npm, Visual Studio Code, Visual Studio, Eclipse, Netlify, Railway, Figma <br>
 
 ## Learn More
-- 🤔 I’m looking for a **Winter 2024 Co-op/Internship**
+- 🤔 I’m looking for a **Winter 2025 Co-op/Internship**
 - 🔭 I’m currently learning about full-stack development
 - ⚡ Learn more about me at **[danielsu.ca](https://danielsu.ca/)**
 - 😄 Pronouns: `He/Him`
