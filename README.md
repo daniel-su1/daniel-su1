@@ -3,14 +3,8 @@
 I'm a **Computer Science student @ the University of Waterloo** <br>
 I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/daniel-su1/) and coffee chats 🍵.
 
-## Skills
-**Languages:** Java, Python, C, SQL (Postgres), JavaScript, HTML/CSS, Swift, Racket <br>
-**Frameworks:** React, Node.js, Express.js, MongoDB, Bootstrap, AJAX <br>
-**Developer Tools:** Git, GitHub, Bash, npm, Visual Studio Code, Visual Studio, Eclipse, Netlify, Railway, Figma <br>
-
 ## Learn More
-- 🤔 I’m looking for a **Winter 2025 Co-op/Internship**
-- 🔭 I’m currently learning about full-stack development
+- 🤔 I’m looking for a **Summer 2025 Co-op/Internship**
 - ⚡ Learn more about me at **[danielsu.ca](https://danielsu.ca/)**
 - 😄 Pronouns: `He/Him`
 
